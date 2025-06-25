@@ -1,9 +1,9 @@
 To Run the Code
 cmd Type or click (ctrl + `)
-    cd cvrexp1
+    cd cvr1
 
 cmd Type
-    pip install -r requirements.txt
+    pip install -r requirement.txt
 
 First Run
 cmd Type
