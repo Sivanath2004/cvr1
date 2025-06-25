@@ -1,0 +1,30 @@
+To Run the Code
+cmd Type or click (ctrl + `)
+    cd cvrexp1
+
+cmd Type
+    pip install -r requirements.txt
+
+First Run
+cmd Type
+    python step_a_display_image.py
+
+Second Run
+cmd Type
+    python step_b_color_conversion.py
+
+Third Run
+cmd Type
+    python step_c_enhancement.py
+    
+
+
+AIM:
+To perform basic image operations such as loading, displaying, color format conversion, and image
+enhancement.
+Procedure:
+Step-1 Load an image using OpenCV or PIL.
+Step-2 Display the image using a library like OpenCV or Matplotlib.
+Step-3 Convert the image between different color formats (RGB, Grayscale, HSV).
+Step-4 Apply contrast and brightness adjustments for image enhancement.
+Step-5 Save the processed image.
